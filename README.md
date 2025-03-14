@@ -1,3 +1,16 @@
+# ¡Hola! 👋 Soy Sandy
+
+### Ingeniero Bioinformátic, apasionado por crear soluciones innovadoras
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Siempre+aprendiendo+nuevas+tecnologías🚀" alt="Encabezado animado" />
+</div>
+
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+<div align="center">
 <div align="center">
 	<table>
 		<tr>
@@ -59,3 +72,48 @@
 		</tr>
 	</table>
 </div>
+</div>
+
+---
+
+## 📈 Mis Estadísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USERNAME]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USERNAME]&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Proyecto 1](link) | Descripción breve | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| [Proyecto 2](link) | Descripción breve | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+
+---
+
+## 📫 Cómo contactarme
+
+<div align="center">
+  <a href="mailto:tu@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/tuperfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/tuperfil">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=[TU_USERNAME]&color=blue&style=flat-square" alt="Visitas al perfil">
+</div>
+
+✨ "El único modo de hacer un gran trabajo es amar lo que haces" - Steve Jobs
+
+<sub>⚙️ Iconos cortesía de [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons)</sub>
